@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Saloni Pandey</h1>
-<h3>A passionate Web developer from India</h3>
+<h3>A passionate Web developer </h3>
 
 - 🌱 I’m currently learning **Web development**
 
