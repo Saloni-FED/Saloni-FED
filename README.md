@@ -2,9 +2,6 @@
 <h3>A passionate Web developer </h3>
 
 - 🌱 I’m currently learning **Web development**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-salonifed.netlify.app/](https://portfolio-salonifed.netlify.app/)
-
 - 📫 How to reach me **salonipandey014@gmail.com**
 
 <h3 align="">Connect with me:</h3>
