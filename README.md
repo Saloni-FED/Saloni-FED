@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Web development**
 - 📫 How to reach me **salonipandey014@gmail.com**
 
-<h3 align="">Connect with me:-</h3>
+<h3 align="">Connect with me</h3>
 <p align="">
 <a href="https://codepen.io/https://codepen.io/saloni-pandey-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/saloni-pandey-the-solid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saloni-pandey-454671210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saloni-pandey-454671210/" height="30" width="40" /></a>
